@@ -1,0 +1,2 @@
+PASTE YOUR GITHUB PAGES URL HERE AFTER DEPLOYMENT
+Example: https://yourusername.github.io/MyCV/
